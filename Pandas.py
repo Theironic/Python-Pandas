@@ -10,6 +10,6 @@ datatest = {
 
 #dataframe
 
-dataframe = pd.DataFrame(datatest)
+dataframe = pd.DataFrame(datatest);
 
-dataframe
+Display(dataframe)
